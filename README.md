@@ -39,12 +39,6 @@ Dark/light theme toggle
 # Author:
 Sumit Yadav
 
-GitHub: https://github.com/your-username
-
-LinkedIn: Author
-
-Sumit Yadav
-
 GitHub: https://github.com/sumit02200
 
 LinkedIn: https://www.linkedin.com/in/sumit-yadav-45547739b/
