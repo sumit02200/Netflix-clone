@@ -45,6 +45,6 @@ LinkedIn: Author
 
 Sumit Yadav
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sumit02200
 
 LinkedIn: https://www.linkedin.com/in/sumit-yadav-45547739b/
