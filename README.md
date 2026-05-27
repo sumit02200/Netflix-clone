@@ -35,6 +35,9 @@ Dynamic movie data
 Login page UI
 User profiles
 Dark/light theme toggle
+backend
+setting
+
 
 # Author:
 Sumit Yadav
